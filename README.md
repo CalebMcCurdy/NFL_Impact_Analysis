@@ -21,6 +21,17 @@ This project aims to explore various aspects of team building and gameplay strat
 
 <img width="930" alt="Screenshot 2024-03-04 at 5 46 05 PM" src="https://github.com/UE-Wang/MSADS599-Capstone-Project/assets/108497911/d0cd9824-ed73-4288-8af7-c7c221cf1515">
 
+
+
+## Methodology
+
+• Data Mining • Data Visualization • Descriptive and Predictive Analysis • Machine Learning 
+
+## Technologies
+
+Python (Jupyter Notebook)
+
+
 ## References:
 
 Gifford, M., & Bayrak, T. (2023). A predictive analytics model for forecasting outcomes in 		National Football League games using decision tree and logistic regression. Decision 		Analytics Journal, 8, 100296. Retrieved from 						

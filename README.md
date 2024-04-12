@@ -48,6 +48,7 @@ Schedule adjustments are recommended to address rest imbalances and improve comp
 
 ![Unknown](https://github.com/CalebMcCurdy/NFL_Impact_Analysis/assets/108497911/d75344fb-abe2-4672-891b-eff4a722754f)
 
+![Unknown](https://github.com/CalebMcCurdy/NFL_Impact_Analysis/assets/108497911/2395cef1-3e66-41cf-80b4-b65fe966a46f)
 
 ## Conclusion
 

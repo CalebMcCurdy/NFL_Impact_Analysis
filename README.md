@@ -46,6 +46,9 @@ Logistic Regression emerges as the top-performing model for predicting game outc
 Linear regression models effectively predict scoring based on passing yards per attempt, rushing yards per attempt, and sacks.
 Schedule adjustments are recommended to address rest imbalances and improve competitive fairness.
 
+![Unknown](https://github.com/CalebMcCurdy/NFL_Impact_Analysis/assets/108497911/d75344fb-abe2-4672-891b-eff4a722754f)
+
+
 ## Conclusion
 
 In summary, this project provides valuable insights into the factors influencing NFL game outcomes and scoring. By leveraging predictive modeling techniques, teams can make informed decisions regarding roster construction, strategic planning, and scheduling to maximize their chances of success in the league. These findings contribute to a deeper understanding of the complexities within the NFL and offer opportunities for further exploration in this domain.

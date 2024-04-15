@@ -2,7 +2,7 @@
 
 ## Overview:
 
-his project delves into the intricacies of team building and gameplay strategies within the National Football League (NFL). As the NFL landscape evolves, teams adopt diverse approaches to roster construction and game plans. Some emphasize a robust running game, while others prioritize passing. The central hypothesis driving this endeavor is that teams built around a strong passing game tend to enjoy greater success in the regular season. Our objective is to pinpoint the factors with the most significant impact on winning in the NFL.
+This project delves into the intricacies of team building and gameplay strategies within the National Football League (NFL). As the NFL landscape evolves, teams adopt diverse approaches to roster construction and game plans. Some emphasize a robust running game, while others prioritize passing. The central hypothesis driving this endeavor is that teams built around a strong passing game tend to enjoy greater success in the regular season. Our objective is to pinpoint the factors with the most significant impact on winning in the NFL.
 
 Through meticulous analysis of NFL data and trends, this project aims to provide insights to NFL teams for enhancing personnel and system development to bolster their chances of success. Furthermore, it seeks to explore whether there exists an unfair competitive imbalance within the league that warrants reform.
 
